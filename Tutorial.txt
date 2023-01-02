@@ -1,2 +1,2 @@
 Tutorial inicial sobre git-github da devmedia pelo youtube.
-conferência
+conferência.
